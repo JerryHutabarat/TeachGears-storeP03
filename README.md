@@ -7,6 +7,8 @@ Menampilkan katalog produk dengan tampilan modern dan responsif menggunakan Reac
 
 ## 📸 Preview
 ![App Screen](D:\pertemuan3\pertemuan3\assets\images\screenshot pertemuan3.jpeg)
+<img width="702" height="1600" alt="screenshot pertemuan3" src="https://github.com/user-attachments/assets/8269dc5c-aee5-404f-ad62-58895312b8c4" />
+
 
 ---
 
